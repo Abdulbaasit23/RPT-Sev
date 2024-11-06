@@ -1,0 +1,23 @@
+Basic Functionality
+1:Play/Pause Track: The user should be able to play and pause a track with a single click or tap.
+2:Track Selection: The user should be able to select a track from a list or album.
+3:Next/Previous Track: The user can navigate to the next or previous track within a playlist or album.
+
+
+User Interface
+1:Track Information Display: The app should display the track name, artist, and album art.
+2:Volume Control: The user can adjust the volume with a slider or button.
+3:Shuffle/Repeat Options: The user can enable shuffle or repeat modes
+
+Playlist Management
+1:Create and Edit Playlists: Users can create, edit, and delete playlists.
+2:Add/Remove Songs from Playlist: The user can add or remove songs from a playlist easily.
+3:Save Queue: The user can save the current queue as a playlist.
+
+Playback Features
+1:Offline Mode: The app should allow users to download tracks for offline playback.
+
+Additional Features
+1:Recently Played and Favorites: The user has easy access to recently played tracks and favorites.
+2:Notifications: Display notifications with playback controls when the app is running in the background.
+
