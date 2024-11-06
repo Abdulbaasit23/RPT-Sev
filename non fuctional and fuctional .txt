@@ -1,0 +1,30 @@
+Functional Requirements
+
+1:Play/Pause Track:The player must allow the user to play and pause tracks at any time.
+2:Next/Previous Track Navigation:The player should enable the user to skip to the next track or go back to the previous track in a playlist or album.
+3:Search Music:Users should be able to search for songs, artists, and albums using keywords.
+4:Create and Manage Playlists:Users can create new playlists, add songs, reorder songs, and delete playlists.
+5:Offline Playback:The app should allow users to download songs for offline listening.
+6:Library Organization:Users can organize their music library by artists, albums, genres, or recently added
+7:Settings Adjustment:Users can adjust various playback settings, such as equalizer settings and audio quality.
+
+Non-Functional Requirements
+1:Performance
+Low Latency: The app should respond to play, pause, and track change actions within 1 second.
+Smooth Playback: Playback should be smooth without noticeable delays or buffering, even for high-quality audio files.
+
+2:Reliability
+Offline Reliability: Offline downloads should be accessible without errors
+Consistent Streaming: For online streaming, the app should maintain consistent playback with minimal interruptions.
+
+3:Scalability
+The app should handle a large music library without performance issues, accommodating thousands of tracks without lag.
+
+4:Compatibility
+The app should function across multiple devices and platforms (e.g., iOS, Android, Windows) with consistent performance.
+
+5:Maintainability
+The codebase should be modular and well-documented to allow for easy updates and debugging.
+
+6:Error Handling
+Display clear and actionable error messages if playback fails, the library can’t load, or a track isn’t available.
